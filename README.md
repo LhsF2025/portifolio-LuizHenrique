@@ -15,10 +15,11 @@ Sou estudante de Python com interesse em integrar dados, automatizar tarefas e a
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Análise de Formulários](./microsoft-forms-python-analysis) | Leitura de respostas de forms e análise com Python | Microsoft Forms, Python, Pandas |
-| [Notebook de Análise Simples](./jupyter-basic-logic) | Notebook com lógica e gráficos básicos | Python, Pandas, Jupyter |
-| [Simulação de Processo ITSM](./itsm-simulacao-processo) | Fluxo simulado de abertura e resolução de chamados | Markdown, ITSM conceitual |
-| [Exemplo de Template Freemarker](./freemarker-template-exemplo) | Pequeno exemplo de uso da sintaxe Freemarker | Freemarker, HTML |
+| [Análise de Formulários](./microsoft-forms-python-analysis) | Leitura de respostas de forms e análise com Python | Microsoft Forms, Python, Pandas 
+| [Simulação de Processo ITSM](./itsm-simulacao-processo) | Fluxo simulado de abertura e resolução de chamados | Markdown, ITSM conceitual 
+| [SQl básico](./sql-basico) | Manipulção de Base de dados | SQlite |
+
+
 
 ---
 
