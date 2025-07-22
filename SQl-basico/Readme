@@ -1,1 +1,28 @@
+# 📚 Projeto SQL - Biblioteca
 
+Este projeto simula um sistema básico de empréstimo de livros utilizando banco de dados relacional (SQLite).
+
+## 🛠️ Funcionalidades
+
+- Cadastro de autores, livros e usuários
+- Registro de empréstimos
+- Consultas com JOIN entre tabelas
+
+## 🧱 Estrutura do banco
+
+- Tabelas: `autores`, `livros`, `usuarios`, `emprestimos`
+- Relacionamentos com chaves estrangeiras
+
+## 🚀 Como usar
+
+Você pode testar o projeto no [DB Fiddle](https://www.db-fiddle.com/) ou com SQLite localmente.
+
+1. Execute o conteúdo do `schema.sql` para criar as tabelas e dados
+2. Execute as consultas do `consultas.sql` para explorar os dados
+
+## 📂 Arquivos
+
+- `schema.sql`: estrutura do banco e inserção de dados
+- `consultas.sql`: exemplos de queries para análise
+
+---
