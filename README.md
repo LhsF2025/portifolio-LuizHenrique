@@ -7,7 +7,7 @@ Este é meu portfólio de projetos voltado para vagas de tecnologia com foco em 
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de linguagens de programação com interesse em: integrar dados, automatizar tarefas e aprender novas ferramentas, assim como desenvolver, manter e corrigir projetos colaborativos, priorizando boas práticas de desenvolvimento. Estou buscando minha primeira oportunidade na área.
+Sou estudante de linguagens de programação com interesse em integrar dados, automatizar tarefas e aprender novas ferramentas, assim como desenvolver, manter e corrigir projetos colaborativos, priorizando boas práticas de desenvolvimento. Estou buscando minha primeira oportunidade na área.
 
 ---
 
