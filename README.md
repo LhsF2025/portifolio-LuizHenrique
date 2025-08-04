@@ -7,7 +7,7 @@ Este é meu portfólio de projetos voltado para vagas de tecnologia com foco em 
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Python com interesse em integrar dados, automatizar tarefas e aprender novas ferramentas. Estou buscando minha primeira oportunidade na área.
+Sou estudante de linguagens de programação com interesse em: integrar dados, automatizar tarefas e aprender novas ferramentas, assim como desenvolver, manter e corrigir projetos colaborativos, priorizando boas práticas de desenvolvimento. Estou buscando minha primeira oportunidade na área.
 
 ---
 
@@ -17,7 +17,7 @@ Sou estudante de Python com interesse em integrar dados, automatizar tarefas e a
 |--------|-----------|-------------|
 | [Análise de Formulários](./microsoft-forms-python-analysis) | Leitura de respostas de forms e análise com Python | Microsoft Forms, Python, Pandas 
 | [Simulação de Processo ITSM](./itsm-simulacao-processo) | Fluxo simulado de abertura e resolução de chamados | Markdown, ITSM conceitual 
-| [SQl básico](./sql-basico) | Manipulção de Base de dados | SQlite |
+| [SQl básico](./sql-basico) | consulta de Base de dados | SQlite |
 
 
 
