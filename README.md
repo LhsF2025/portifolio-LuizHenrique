@@ -1,7 +1,7 @@
 
 # Portfólio - Luiz Henrique 
 
-Este é meu portfólio de projetos voltado para vagas de tecnologia com foco em integração de sistemas, automações simples em Python e ferramentas de apoio ao time.
+Este é meu portfólio de projetos voltado para vagas de tecnologia com foco em integração de sistemas, automações simples em Python desenvolvimento de paginas web e ferramentas de apoio ao time.
 
 ---
 
