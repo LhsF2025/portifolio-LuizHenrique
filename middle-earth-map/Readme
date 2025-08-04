@@ -1,1 +1,49 @@
+#  Mapa Interativo da Terra Média
 
+Este é um projeto simples de página web feito com **HTML**, **CSS** e **JavaScript**, simulando um mapa interativo da Terra Média (do universo de Tolkien). O projeto foi desenvolvido com foco em manipulação de DOM, formulário interativo e estilização responsiva.
+
+---
+
+##  Funcionalidades
+
+- Exibição de uma imagem da Terra Média com descrição.
+- Lista de locais importantes (Shire, Bree, Rivendell, etc.).
+- Formulário interativo com:
+  - Escolha de tamanho e cor da fonte.
+  - Nome e email para contato fictício.
+- Alteração dinâmica da lista com base nas escolhas do formulário.
+- Alerta personalizado com nome e email do usuário.
+
+---
+
+##  Tecnologias utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (puro)**
+
+---
+
+##  Objetivo do projeto
+
+Este projeto tem fins educacionais e foi criado como parte do meu aprendizado em desenvolvimento web. O foco foi praticar:
+
+- Estruturação semântica com HTML.
+- Estilização com CSS em arquivo externo.
+- Manipulação de elementos com JavaScript básico.
+- Interação com o usuário via formulário.
+
+---
+
+##  Captura de tela
+
+![Preview do Projeto](screenshot.png)  
+> *Você pode adicionar um print da tela aqui com o nome `screenshot.png`.*
+
+---
+
+##  Como executar
+
+1. Faça o download ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/middle-earth-map.git
