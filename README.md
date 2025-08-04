@@ -17,7 +17,7 @@ Sou estudante de linguagens de programação com interesse em: integrar dados, a
 |--------|-----------|-------------|
 | [Análise de Formulários](./microsoft-forms-python-analysis) | Leitura de respostas de forms e análise com Python | Microsoft Forms, Python, Pandas 
 | [Simulação de Processo ITSM](./itsm-simulacao-processo) | Fluxo simulado de abertura e resolução de chamados | Markdown, ITSM conceitual 
-| [SQl básico](./SQL-basico) | consulta de Base de dados | SQlite |
+| [SQl básico](./SQl-basico) | consulta de Base de dados | SQlite |
 | [Site html, css e JS (./html-css-JS) | site com estruturação, stilização e dinâmica | HTML, CSS , JAVASCRIPT 
 
 
