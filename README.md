@@ -18,7 +18,7 @@ Sou estudante de linguagens de programação com interesse em: integrar dados, a
 | [Análise de Formulários](./microsoft-forms-python-analysis) | Leitura de respostas de forms e análise com Python | Microsoft Forms, Python, Pandas 
 | [Simulação de Processo ITSM](./itsm-simulacao-processo) | Fluxo simulado de abertura e resolução de chamados | Markdown, ITSM conceitual 
 | [SQl básico](./SQl-basico) | Consulta de Base de dados | SQlite |
-| [Site html, css e JS] (./middle-earth-map) | Site com estruturação, stilização e dinâmica | HTML, CSS , JAVASCRIPT 
+| [Site html, css e JS](./middle-earth-map) | Site com estruturação, stilização e dinâmica | HTML, CSS , JAVASCRIPT 
 
 
 
